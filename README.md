@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @preranamatya
-- 👀 I’m interested in UX/UI Design
+- 👀 I’m interested in data, UX and strategy.
 
 
 <!---
