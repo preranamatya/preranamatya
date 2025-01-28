@@ -1,6 +1,6 @@
 
 - 👋 Hi, I’m @preranamatya
-- 👀 I’m interested in data, UX and strategy.
+- 👀 I’m interested in data, UX, and improving business.
 
 Languages and Tools:
 Python, R, SQL, MS Excel, PowerBI, Tableau
