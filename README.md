@@ -1,6 +1,7 @@
-
-- 👋 Hi, I’m @preranamatya
-- 👀 I’m interested in data, UX, and improving business.
+# 👋 Hi, I’m Prerana. Welcome to my profile!
+## 🏵️ About me
+- I’m interested in data, UX, and improving business.
+- Currently, I'm a data consultant at The Data School Down Under
 
 Languages and Tools:
 Python, R, SQL, MS Excel, PowerBI, Tableau
